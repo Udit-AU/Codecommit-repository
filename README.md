@@ -1,5 +1,5 @@
 # Codecommit-repository
-  ## > * RIA ID - RIA0133 
+  ## RIA ID - RIA0133 
   ## > * Application Details -
       ### >> +Application Name - AU0101
   ## > * Repository Details -
