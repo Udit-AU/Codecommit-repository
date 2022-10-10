@@ -17,7 +17,9 @@
 ## Repository Details 
   * Repository name - AUB-RIAIDXXX-netbanking
   * what Repository does - ?
-   
+  
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+ 
 ###	Stable version - ?
 #### Version History 
 * 0.2
@@ -26,7 +28,8 @@
 * 0.1
     * Initial Release
   
-  
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ### Tech Stack
  
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
@@ -40,6 +43,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * Bootstrap.com
 * JQuery.com
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
  
 ### Any open issue - ?
   
@@ -47,6 +51,8 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 * Describe any prerequisites, libraries, OS version, etc., needed before installing program.
 * ex. Windows 10
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
   
 ## License 
 ### AU License details - ?
@@ -57,11 +63,16 @@ This section should list any major frameworks/libraries used to bootstrap your p
   * Owner Email ID - ?
   * Owner Phone no. - ?
   
+  
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## Maintainer Details 
   * Maintainer Employee ID - ?
   * Maintainer Name - ?
   * Maintainer Email ID - ?
   * Maintainer Phone no. - ?
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
   
 ## Vertical Head Details
   * Vertical Employee ID - ?
@@ -69,8 +80,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
   * Vertical Email ID - ?
   * Vertical Phone no. - ?
   
-  
-  
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
   
 
