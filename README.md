@@ -21,7 +21,7 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
  
 ###  Stable version - ?
-+ Version History 
+#### Version History 
 * 0.2
     * Various bug fixes and optimizations
     * See [commit change]() or See [release history]()
