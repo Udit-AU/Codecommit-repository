@@ -20,7 +20,7 @@
   
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
  
-###	Stable version - ?
+###	+ Stable version - ?
 #### Version History 
 * 0.2
     * Various bug fixes and optimizations
