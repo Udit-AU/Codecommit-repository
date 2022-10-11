@@ -9,7 +9,6 @@
 # <-- Repository Title -->
 
 ## Application Details 
-  
   * RIA ID - RIA0133
   * Application Name - AU0101
   * what Application does - ?
@@ -21,6 +20,7 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
  
 ###  Stable version - ?
+  
 #### Version History 
 * 0.2
     * Various bug fixes and optimizations
@@ -32,8 +32,7 @@
 
 ### Tech Stack
  
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-  
+This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples. 
 * Next.js
 * React.js
 * Vue.js
@@ -55,15 +54,16 @@ This section should list any major frameworks/libraries used to bootstrap your p
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
   
 ## License 
+  
 ### AU License details - ?
 
 ## Owner Details
+  
   * Owner Employee ID - ?
   * Owner Name - ?
   * Owner Email ID - ?
   * Owner Phone no. - ?
-  
-  
+   
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Maintainer Details 
