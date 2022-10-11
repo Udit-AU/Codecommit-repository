@@ -4,7 +4,7 @@
   <p align="center">
     An awesome README template to jumpstart your projects!
     <br />
-  
+<a name="readme-top"></a>
   
 # Title of Repository 
 
@@ -12,21 +12,18 @@
   * RIA ID - RIA0133
   * Application Name - AU0101
   * what Application does - ?
-  
+
+
 ## Repository Details 
   * Repository name - AUB-RIAIDXXX-netbanking
-  * what Repository does - ?  
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+  * what Repository does - ?
 
-###  Stable version - ?
-  
-#### Version History 
+### Version History 
 * 0.2
     * Various bug fixes and optimizations
     * See commit change or See release history
 * 0.1
     * Initial Release
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Tech Stack
  
@@ -39,8 +36,11 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * Laravel.com
 * Bootstrap.com
 * JQuery.com
+
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
- 
+
+
 ### Any open issue - ?
   
 ### Dependencies 
